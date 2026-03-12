@@ -5,3 +5,4 @@ crawl4ai
 ollama
 edge-tts          # Free Microsoft TTS (no API key needed)
 python-dotenv
+openai

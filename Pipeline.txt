@@ -1,0 +1,12 @@
+Crawl4AI Pipeline:
+Website
+   ↓
+Crawler scans pages
+   ↓
+Extracts clean content
+   ↓
+Removes ads/navigation/junk
+   ↓
+Outputs structured text
+   ↓
+Ready for embeddings / RAG
